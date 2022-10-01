@@ -32,16 +32,15 @@ description: >-                        # used by seo meta and the atom feed
 url: 'https://zete5.github.io'
 
 github:
-  username:  H4ckerLite             # change to your github username
-
+  username:  zete5
 twitter:
-  username: mortzelo            # change to your twitter username
+  username: zete4            # change to your twitter username
 
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: H4ckerLite
-  email: arias_csar@yahoo.com             # change to your email address
+  name: zete4
+  email: tueamil             # change to your email address
   links:
     # The first element serves as the copyright owner's link
     - https://twitter.com/mortzelo      # change to your twitter homepage
